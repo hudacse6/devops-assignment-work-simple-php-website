@@ -10,6 +10,7 @@ require 'includes/functions.php';
 //Assignment 01 by Zafar
 //Changed by Tanvir_Assignment_01
 
+
 AWS Assignment 1
 
 1. First create a vpc in Singapore region tagged as like your name.
